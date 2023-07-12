@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./index.css">
+    <link rel="shortcuticon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyq0oyTZ52nlsN_yxt_Ye0BUNk97Tq5EAlw&usqp=CAU" type="image">
+</head>
+<body>
+    <div class="containerIcon">
+        <div><p class="pDBSchenker">DB Schenker</p></div>
+    <div class="topMiddleTxt">
+        <div><p class="about">About us</p></div>  
+        <div><p class="about">projects</p></div> 
+        <div><p class="about">contacts</p></div>
+    </div> 
+        <div class="containerImg">
+            <a href="https://www.instagram.com/dbschenkerpl/"><img class="icon" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\instagram.png" alt="instagram"></a>
+            <a href="https://www.facebook.com/db.schenker/?locale=pl_PL"><img class="icon" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\facebook (1).png" alt="facebook"></a>
+            <img class="icon" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\telegram (1).png" alt="telegram">
+        </div>
+
+    </div>
+
+    <div class="containerAboutUs">
+        <div class="containerImgSchenker">
+            <img class="imgSchenker"src="https://www.iru.org/sites/default/files/styles/1200x900/public/2022-01/DB%20Schenker%20joins%20IRU%20in%20focus%20on%20global%20logistics%20decarbonisation.jpg?h=64b985b2&itok=MmLqStq7" alt="">
+        </div>
+        <div class="aboutUs">
+            <p class="txtDBScheneker">
+                <h1>
+                    About us
+                </h1>
+                <br>
+                DB Schenker is a division of German 
+                rail operator Deutsche Bahn that 
+                focuses on logistics. The company was 
+                acquired by Deutsche Bahn as Schenker-Stinnes 
+                in 2002. It comprises divisions for air, land, 
+                sea freight, and Contract Logistics.In his biography, 
+                then CEO of Deutsche Bahn Hartmut Mehdorn justified 
+                the acquisition of international logistics 
+                companies with customer demand. In 2000, 
+                analysis had shown the 200 largest customers 
+                ship up to 60% of their freight abroad.
+                Since the core operating territory had 
+                been Germany, customers were lost to competitors 
+                with a more compelling international offer. There
+                was no time to grow organically in such markets Thi.
+                s analysis led to the acquisition of Stinnes AG and 
+                the associated brand name Schenker. Since December
+                2007 DB Schenker has been the freight logistics subsidiary 
+                of Deutsche Bahn. DB Schenker combines all transport and logistic 
+                activities of Deutsche Bahn (except rail cargo), employing over 
+                72,000 staff spread across about 2,000 locations in about 140 
+                countries. In 2021, DB Schenker cooperated with logistics 
+                startup Volocopter to introduce heavy-lift drones.
+                The same year, the company launched Schenker Ventures, 
+                its own venture capital arm to invest in innovation in
+                the logistics industry.Schenker Ventures announced its 
+                first investment in German logistics startup Warehousing
+            </p>
+        </div>
+    </div>
+<div class="ourTransport"><p>Our transport</p></div>
+   
+<div class="imgfly">     
+        <div><img class="imgTransport" src="https://www.dbschenker.com/resource/image/852498/4:3/555/0/3c5eee793d592ec25bf43d65993cf7d1/XT/db-schenker-insights-corporate-sustainability-stage.jpg" alt="truck"></div>
+        <div class="txtTransport"><p>The future of sustainable logistics
+                                  <p>Nachhaltige Logistik erfordert Bewegung.</p>
+        </p></div>     
+</div>
+
+<div class="imgfly">
+       <div class="drone">
+        <div class="txtTransport"><p>The smart solutions you deserve</p>
+                                  <p>Mit unseren engagierten Teams und erstklassigen 
+                                     Partner:innen fordern wir jeden Tag den Status 
+                                     quo heraus. Sind Sie schon heute an morgen interessiert?</p>
+        </div>
+        <div> <img class="imgTransport" src="https://www.dbschenker.com/resource/image/849446/4:3/555/0/b5afc9d87fcd54db2c28359158d8f2d2/yc/db-schenker-insights-innovation-and-digitalization-stage.jpg" alt="drone"></div></div> 
+</div>
+
+<div class="imgfly">
+        
+        <div><img class="imgTransport" src="https://www.dbschenker.com/resource/image/850038/4:3/555/0/14506e2d4dcfbc2dfe7919f2826da545/jY/db-schenker-insights-news-and-stories-stage.jpg" alt="truck"></div>
+        <div class="txtTransport"><p>Up close and personal</p>
+                                  <p>Das sind wir – und Sie! Informieren Sie 
+                                    sich über die Neuigkeiten und Storys, die 
+                                    unsere Kund:innen, die Branche und unsere
+                                    Das sind wir – und Sie! Informieren Sie sich über die Neuigkeiten und Storys, die unsere Kund:innen, die Branche und unsere Teams bewegen.
+                                    Hautnah und persönlichGanz oben auf Teams bewegen.
+                                    Hautnah und persönlichGanz oben auf</p>
+        </div>
+        
+</div>
+
+    <div class="find">
+        <div class="txtFind"><h1>Find your perfect position</h1></div>
+
+       <div class="findPosition">
+        <div class="position">
+            <p>IT Solution Architect f/m/d</p>
+          
+            <div class="bottomPosition"><p>Operations
+                Professionals, Full time</p></div> 
+        </div>
+
+        <div class="position">
+            <p>Junior Project Manager Line Haul Management (m/f/d)</p>
+          
+          <div class="bottomPosition"><p>Information Technology
+                Professionals, Full time</p></div>  
+        </div>
+        <div class="position">
+            <p>Head of Air and Ocean Processes & Systems, Middle East and Africa</p>
+           
+           <div class="bottomPosition"><p>Land Transport
+                Professionals, Full time</p></div> 
+        </div>
+        <div class="position">
+            <p>Business Development Executive</p>
+            
+            <div class="bottomPosition"><p>Operations
+                Professionals, Full time</p></div>
+        </div>
+
+        <div class="position">
+            <p>Regional Account Manager, APAC</p>
+           
+           <div class="bottomPosition"><p>Ocean Freight
+                Professionals, Full time</p></div> 
+        </div>
+    </div>
+        
+    </div>
+
+<div class="contacts"> <p>Contacts</p>
+<img  class="iconContacts"src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\support.png" alt="contacts"></div>
+<div class="containerBottomIcon">
+    <div class="bottomIcon">
+        <img class="imgBottom" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\pin (1).png" alt="adress">
+    <p class="txtIcon">adress</p>
+    <p>Essen, Germany <br>
+      Trelleborg, Sweden
+    </p>
+        
+    </div>
+
+    <div class="bottomIcon">
+        <img  class="imgBottom" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\phone-call.png" alt="phone">
+    <p class="txtIcon">phone</p>
+    <p>+49 11 1111 111 <br>
+      +49 22 2222 222</p>
+
+    </div>
+
+    <div class="bottomIcon">
+        <img  class="imgBottom" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\clock (1).png" alt="time">
+    <p class="txtIcon">time</p>
+    <p>mo-fr: 7:00 - 24:00 <br>
+      son-sum: 700 - 18:00
+    </p>
+    </div>
+
+    <div class="bottomIcon">
+        <img  class="imgBottom" src="C:\Users\alexz\OneDrive\Pulpit\Tel Ran\fe\email.png" alt="emaill">
+    <p class="txtIcon">email</p>
+    <p>dbschencer@gmail.com <br>
+      dbschenkerDE@gmail.com
+    </p>
+    
+    </div>
+</div>
+</body>
+</html>
